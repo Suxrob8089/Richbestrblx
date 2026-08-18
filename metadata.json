@@ -1,0 +1,6 @@
+{
+  "name": "Robux Clicker & Rewards",
+  "description": "Interactive Robux clicker web app with 0.5 R$ per tap, 500 click energy system every 3 hours, user profiles with ID, 7-day pending payout hold (razmorozka), pure Robux withdrawals up to 3000 RBX, and creator dashboard with ID balance management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
